@@ -1,2 +1,14 @@
-# ig-bot-list-of-accounts-and-like-py
-Selenium app, get list of accounts that liked a post, go to their profile and like their first post 
+# Description
+
+Selenium py app to automatically get a list of accounts that liked a determinated post. Then like the first post of each one.
+
+## Settings
+
+```python
+DRIVER_PATH = chromedriver.exe path
+ACCOUNT = {'username':'___','passwd': '___'}
+IG_POST = url ig post
+```
+
+## Version
+Working on 2020 Instagram version
