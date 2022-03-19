@@ -1,6 +1,6 @@
 # Description
 
-Selenium py app to automatically get a list of accounts that liked a determinated post. Then like the first post of each one.
+Selenium py app to automatically get a list of accounts that liked a determinated post. Then goes like the first post of each one.
 
 ## Settings
 
